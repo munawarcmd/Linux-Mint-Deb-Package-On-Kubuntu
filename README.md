@@ -63,5 +63,7 @@ rm -rf ~/.local/mint-debs/*
 
 ## ✍️ License
 
-Distributed under the MIT License.
+Distributed under the MIT License. Feel free to fork, star, or contribute!
 
+
+---
